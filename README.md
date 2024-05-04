@@ -11,7 +11,7 @@ Feature List
   - [ ] Heatmap of workouts on a calendar
 
 Development Roadmap
-- User Interface Design
+- [User Interface Design](./docs/User%20Interface%20Design.md)
   - Decide on the visualizations you'll use to represent 1RM progression.
   - Design a user-friendly interface that is intuitive to navigate.
 - Frontend Development
