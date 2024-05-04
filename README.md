@@ -14,7 +14,7 @@ Development Roadmap
 - [User Interface Design](./docs/User%20Interface%20Design.md)
   - Decide on the visualizations you'll use to represent 1RM progression.
   - Design a user-friendly interface that is intuitive to navigate.
-- Frontend Development
+- [Frontend Development](./docs/Frontend%20Development.md)
   - Set up the development environment for your frontend.
   - Create the code for the user interface based on your designs.
 - Backend Development
