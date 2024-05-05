@@ -6,7 +6,6 @@
 
 ## Tasks
 - [x] Determine how to embed a grafana panel in react. This will determine the next steps.
-- [ ] Set up Grafana environment.
 - [ ] Set up React environment.
 
 
