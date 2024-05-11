@@ -12,4 +12,4 @@ Main Development Parts
     - minikube
 - [x] Set up some basic implementation of prometheus to understand how it works
     - https://maxat-akbanov.com/prometheus-and-grafana-setup-in-minikube
-- Create Java Application using helm charts to report stats to prom.
+- Create Java Application to report stats to prom.
