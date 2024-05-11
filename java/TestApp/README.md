@@ -10,5 +10,5 @@ Complete workflow:
    * `TestApp % kubectl create -f ./deployment.yaml`
 4. View Logs
    * `TestApp % minikube kubectl get pods`
-   * `minikube kubectl logs <podname>` 
+   * `TestApp % minikube kubectl logs <podname>` 
 
