@@ -3,19 +3,19 @@ kind: Deployment
 metadata:
   name: test-app
   labels:
-    app: test
+    app: test-app
 spec:
   replicas: 1
   selector:
     matchLabels:
-      app: test
+      app: test-app
   template:
     metadata:
       labels:
-        app: test
+        app: test-app
     spec:
       containers:
         - name: test
           image: vakoi/test-app:latest
           ports:
-            - containerPort: 80
+            - containerPort: 8080
